@@ -4,7 +4,7 @@ Using LSTM for Sentiment Analysis (Text Classification) of Movie Review Data.
 
 ## Requirements
 
-1. Dwonload Stanford parser form https://stanfordnlp.github.io/CoreNLP/download.html
+1. Download Stanford parser form https://stanfordnlp.github.io/CoreNLP/download.html
 2. Download glove.6B.100d.txt from https://nlp.stanford.edu/projects/glove/
 
 ## Dataset
