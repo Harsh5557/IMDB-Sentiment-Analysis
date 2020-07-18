@@ -19,7 +19,8 @@ Download From http://www.cs.cornell.edu/people/pabo/movie-review-data/review_pol
 
 ## Working
 
-Word embeddings from GloVe and POS tags from the Stanford Parser are used to form vector representations of the words.
+Word embeddings from GloVe and POS tags from the Stanford Parser are used to form vector representations of the words.  
+A single layer unidirectional LSTM with 136 units is used for sentiment analysis which predicts a movie review as 'positive' or 'negative'.
 
 
 
